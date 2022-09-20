@@ -5,7 +5,7 @@
 
 > Trilha Explorer 
 
-Projeto construido do evento Next Level Week da Rocketseat.
+Projeto construido no programa explorer na Rocketseat
 
 👉🏼[Clique aqui para accessar](https://jose26362780.github.io/Projeto-01--Ambientes-Unicos-para-voc--/)
 
