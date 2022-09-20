@@ -1,6 +1,6 @@
 # Stage 01 Ambientes unicos para você
 
-![preview](./.github/projeto-01)
+![preview](./.github/projeto_01.png)
 
 
 > Trilha Explorer 
